@@ -26,4 +26,4 @@ that doesn't fall over at 3 AM.
 - Meetup → thedevopsworld
 
 ---
-✉️  admin@mithilab.ai  ·  💼  https://linkedin.com/in/bishwas-jha
+✉️  jhabishwas7@gmail.com  ·  💼  https://linkedin.com/in/bishwas-jha
