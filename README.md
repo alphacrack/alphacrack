@@ -13,9 +13,9 @@ that doesn't fall over at 3 AM.
 
 ### 🔥 What I'm working on
 
-- 🤖 [awesome-aiops](#) — practitioner's guide to AI-powered ops
-- ☁️ [terraform-aws-secure-baseline](#) — opinionated, GDPR-friendly AWS resources secure baseline
-- 🧩 [aws-mcp-toolkit](#) — MCP servers that let Claude/Cursor talk to your AWS account
+- 🛡️ [iac-scanner](https://github.com/alphacrack/iac-scanner) — agentic AI IaC scanner: security, compliance, cost, and AWS Well-Architected in one pass
+- 🧩 [cdk-nag-extension](https://github.com/alphacrack/cdk-nag-extension) — VSCode extension surfacing AWS CDK best practices in the editor
+- 🔒 [aws-cdk-secure-constructs](https://github.com/alphacrack/aws-cdk-secure-constructs) — opinionated, secure-by-design AWS CDK L2 constructs
 
 ---
 
