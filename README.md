@@ -1,6 +1,6 @@
 ### Hi, I'm Bishwas 👋
 
-Cloud Solutions Architect & DevOps Lead based in the Netherlands.
+Cloud Solutions Architect & DevOps engineer based in the Netherlands.
 I help teams ship AWS, Kubernetes, and AI infrastructure
 that doesn't fall over at 3 AM.
 
