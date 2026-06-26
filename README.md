@@ -5,7 +5,6 @@ I help teams ship AWS, Kubernetes, and AI infrastructure
 that doesn't fall over at 3 AM.
 
 🛠  AWS · Terraform · Kubernetes · Python · GenAI / AIOps / MCP
-🏢  Founder, mithilab — Cloud, DevOps & AI lab
 🎤  Organizer, thedevopsworld meetup (1000+ members)
 📝  10x DevOps Engineer in the AI Era — workshop series
 
