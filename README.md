@@ -13,9 +13,7 @@ that doesn't fall over at 3 AM.
 ### 🔥 What I'm working on
 
 - 🔒 [aws-cdk-secure-constructs](https://github.com/alphacrack/aws-cdk-secure-constructs) — opinionated, secure-by-design AWS CDK L2 constructs
-- 🛡️ [iac-scanner](https://github.com/alphacrack/iac-scanner) — agentic AI IaC scanner: security, compliance, cost, and AWS Well-Architected in one pass
-- 🧩 [cdk-nag-extension](https://github.com/alphacrack/cdk-nag-extension) — VSCode extension surfacing AWS CDK best practices in the editor
-
+- 🛡️ [readme2demo](https://github.com/alphacrack/readme2demo) — Verified tutorials and demo videos from your README. An AI agent runs it in a hardened Docker sandbox and replays it in a fresh container before anything is published.
 ---
 
 ### ✍️ Writing & speaking
