@@ -12,7 +12,6 @@ that doesn't fall over at 3 AM.
 
 ### 🔥 What I'm working on
 
-- 🔒 [aws-cdk-secure-constructs](https://github.com/alphacrack/aws-cdk-secure-constructs) — opinionated, secure-by-design AWS CDK L2 constructs
 - 🛡️ [readme2demo](https://github.com/alphacrack/readme2demo) — Verified tutorials and demo videos from your README. An AI agent runs it in a hardened Docker sandbox and replays it in a fresh container before anything is published.
 ---
 
